@@ -1,1 +1,5 @@
-Welcome to Solara®
+# Solara, the universal Web 'OS'
+
+Welcome to Solara, a new Web 'OS' to try and make compatibility with other Web 'OS's.
+
+### The current release is Developer Preview
